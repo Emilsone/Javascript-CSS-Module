@@ -1,0 +1,31 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap"); */
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+.card {
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.4);
+  width: 30%;
+  margin: auto;
+}
+
+.img {
+  width: 100%;
+}
+
+.container {
+  padding: 30px 16px;
+  line-height: 2rem;
+}
+.heading {
+  font-size: 2rem;
+  font-weight: 1rem;
+}
+
+.link {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}
